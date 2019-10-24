@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+        <body>
+            <title:><h1>
+
+                    <font color="red">This is not for the age 17 below! </font>
+            </h1>
+
+            </title:>
+             <h1>
+                    <font color="red">
+                            Get out here before we trace your I.P. Location
+                             </font>
+
+
+             </h1>
+            
+             <h1>
+                    <font color="maroon">
+                           If you are 18 above, please verify below
+                             </font>
+
+                    
+
+             </h1>
+
+            
+
+             <form action="/action_page.php">
+                First name: <input type="text" name="fname"><br>
+                Last name:  <input type="text" name="lname"><br>
+                Age:  <input type="text" name="age"><br>
+                Place: <input type="text" name="place"><br>
+               
+               
+                <form action="http://kissmanga.com">
+ 
+                <input target="http://kissmanga.com" type="submit" value="Submit"/>  
+
+              </form>
+            
+            
+            
+            </head>>         
+</body>
+</html>
